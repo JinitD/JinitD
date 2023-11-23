@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img width="100px" src="[tu_logo.png](https://raw.githubusercontent.com/jhon50420/imagens-logs/main/logo%20util%201.svg)" align="center" alt="Tu Logo" />
+  <img width="100px" src="https://raw.githubusercontent.com/jhon50420/imagens-logs/main/logo%20util%201.svg" align="center" alt="Tu Logo" />
   <h2 align="center">¡Hola! No soy Jhonn </h2>
 </p>
 
