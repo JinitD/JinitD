@@ -6,7 +6,7 @@
 
 <!-- About Me Section -->
 ## 🎨 Sobre mí
-¡Hola! Soy un entusiasta... del arte, la creatividad y la tecnología. Mi pasión por la musica me inspira a crear proyectos emocionantes y coloridos.
+¡Hola! Soy un autista... del arte, la creatividad y la tecnología. Mi pasión por la musica me inspira a crear proyectos de desarrollo.
 
 - 💀 Actualmente no tengo chmaba.
 - 🌱 Aprendiendo constantemente sobre como chambear.
