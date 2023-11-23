@@ -8,7 +8,7 @@
 ## 🎨 Sobre mí
 ¡Hola! Soy un autista... del arte, la creatividad y la tecnología. Mi pasión por la musica me inspira a crear proyectos de desarrollo.
 
-- 💀 Actualmente no tengo chmaba.
+- 💀 Actualmente no tengo chamba.
 - 🌱 Aprendiendo constantemente sobre como chambear.
 - 🎮 También disfruto de la chamba en mi tiempo libre.
 - ❤️ ¡Amante de la chamba creativa!
