@@ -16,8 +16,9 @@
 **Ingeniero en sistemas**, destacando en el desarrollo de soluciones de integración continua y despliegue continuó. Afinidad cercana al desarrollo front-end/back-end y aseguramiento de la calidad.
 
 #### Aspectos de mi 
+
 ```bash
-Parce, creativo, artista, polímata, millonario, playboy y color centavo 
+Parce, creativo, artista, polímata, millonario, playboy y color centavo
 ```
 
 ```git
