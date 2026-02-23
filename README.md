@@ -10,7 +10,7 @@
 
 ## ¿I am? 
  <a href="https://i-am-1d8543.gitlab.io/" target="_blank" style="text-decoration: none; color: #0A66C2; display: flex; align-items: center;">
-   Soy autista... 
+   Soy un autista... 
   </a> de la música, la creatividad y la tecnología. Mi pasión por el arte me ha inspirado a crear proyectos únicos y distinguidos. 
   
 **Ingeniero en sistemas**, destacando en el desarrollo de soluciones de integración continua y despliegue continuó. Afinidad cercana al desarrollo front-end/back-end y aseguramiento de la calidad.
