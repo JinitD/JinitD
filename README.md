@@ -22,8 +22,8 @@ Parce, creativo, artista, polímata, millonario, playboy y color centavo
 ```
 
 ```git
-Systems Engineer | DevOps & CI/CD Specialist | QA Automation Engineer | Front & Back Developer
- | Cloud Engineer (AWS, AZURE)  | Spring Boot  | Angular | React | Katalon | Playwright |
+Systems Engineer |  DevOps & CI/CD Specialist | Cloud Engineer (AWS, Azure, GCP) | AWS CDK | Terraform |
+Front & Back Developer | Spring Boot | Angular | React | Katalon | Playwright | QA Automation Engineer |
 ```
 
 #### Contacto
